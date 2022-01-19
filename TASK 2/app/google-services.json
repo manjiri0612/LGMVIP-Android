@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1042543445778",
+    "project_id": "face-detection-app-20e47",
+    "storage_bucket": "face-detection-app-20e47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042543445778:android:6217e82d4cc6f1b9e055cb",
+        "android_client_info": {
+          "package_name": "com.manjiri.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042543445778-q3odhuvedcefonaepqe4126utiksrr6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClX3SiKQUdYiak-40qjsbdi5KmsW-gwJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042543445778-q3odhuvedcefonaepqe4126utiksrr6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
